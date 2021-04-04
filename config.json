@@ -1,0 +1,7 @@
+[
+  {
+    "webroot": "/",
+    "port": "8000",
+    "extension": ".php"
+  }
+]
